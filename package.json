@@ -1,0 +1,15 @@
+{
+  "name": "dsh-tauri-desktop",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness desktop shell built with Tauri 2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tauri dev",
+    "build": "tauri build",
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}
