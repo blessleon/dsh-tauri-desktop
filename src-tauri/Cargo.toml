@@ -1,5 +1,5 @@
 [package]
-name = "DSH Desktop - tarui"
+name = "DSH_Desktop"
 version = "0.1.5"
 description = "DeepSeek Harness desktop shell"
 edition = "2021"
